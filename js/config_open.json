@@ -1,0 +1,1277 @@
+{
+"color": [
+        {
+            "light": { "bg": "https://i2.100024.xyz/2024/01/13/qrnuwt.webp", "bgMask": "0x50ffffff", "primary": "0xFF2B6C00", "onPrimary": "0xFFFFFFFF", "primaryContainer": "0xFFA6F779", "onPrimaryContainer": "0xFF082100", "secondary": "0xFF55624C", "onSecondary": "0xFFFFFFFF", "secondaryContainer": "0xFFD9E7CA", "onSecondaryContainer": "0xFF131F0D", "tertiary": "0xFF386666", "onTertiary": "0xFFFFFFFF", "tertiaryContainer": "0xFFBBEBEB", "onTertiaryContainer": "0xFF002020", "error": "0xFFBA1A1A", "onError": "0xFFFFFFFF", "errorContainer": "0xFFFFDAD6", "onErrorContainer": "0xFF410002", "background": "0xFFFDFDF5", "onBackground": "0xFF1A1C18", "surface": "0xFFFDFDF5", "onSurface": "0xFF1A1C18", "surfaceVariant": "0xFFE0E4D6", "onSurfaceVariant": "0xFF1A1C18", "inverseSurface": "0xFF2F312C", "onInverseSurface": "0xFFF1F1EA", "outline": "0xFF74796D", "outlineVariant": "0xFFC3C8BB", "shadow": "0xFF000000", "scrim": "0xFF000000", "inversePrimary": "0xFF8CDA60", "surfaceTint": "0xFF2B6C00" },
+            "dark": { "bg": "https://i2.100024.xyz/2024/01/13/qrc37o.webp", "bgMask": "0x50000000", "primary": "0xFF8CDA60", "onPrimary": "0xFF133800", "primaryContainer": "0xFF1F5100", "onPrimaryContainer": "0xFFA6F779", "secondary": "0xFFBDCBAF", "onSecondary": "0xFF283420", "secondaryContainer": "0xFF3E4A35", "onSecondaryContainer": "0xFFD9E7CA", "tertiary": "0xFFA0CFCF", "onTertiary": "0xFF003737", "tertiaryContainer": "0xFF1E4E4E", "onTertiaryContainer": "0xFFBBEBEB", "error": "0xFFFFB4AB", "errorContainer": "0xFF93000A", "onError": "0xFF690005", "onErrorContainer": "0xFFFFDAD6", "background": "0xFF1A1C18", "onBackground": "0xFFE3E3DC", "outline": "0xFF8D9286", "onInverseSurface": "0xFF1A1C18", "inverseSurface": "0xFFE3E3DC", "inversePrimary": "0xFF2B6C00", "shadow": "0xFF000000", "surfaceTint": "0xFF8CDA60", "outlineVariant": "0xFF43483E", "scrim": "0xFF000000", "surface": "0xFF1A1C18", "onSurface": "0xFFC7C7C0", "surfaceVariant": "0xFF43483E", "onSurfaceVariant": "0xFFC7C7C0" }
+        }
+    ],
+
+  "video": {
+    "sites": [
+    {
+                "key": "gzh",
+                "name": "🍭乐享汇fans丨公众号",
+                 "type": 3,
+                "indexs": 1,			
+                "api": "douban_open.js"
+            },
+   {
+                "key": "douban",
+                "name": "🍭乐享汇fans丨豆瓣",
+                "type": 3,
+	 "indexs": 1,			
+                "api": "douban_open.js"
+            },
+            {
+                "key": "wogg1",
+                "name": "🎬️乐享汇fans丨玩偶①",
+                "type": 3,
+                "api": "wogg_open.js",
+                "ext": "阿狸token码"
+            },
+            {
+                "key": "wogg2",
+                "name": "🎬️乐享汇fans丨玩偶②",
+                "type": 3,
+                "api": "wogg2_open.js",
+                "ext": "阿狸token码"
+            },	
+            {
+                "key": "wolb",
+                "name": "🎬️乐享汇fans丨表哥①",
+                "type": 3,
+                "api": "wolb_open.js",
+                "ext": "阿狸token码"
+            },
+            {
+                "key": "wobg1",
+                "name": "🎬️乐享汇fans丨表哥②",
+                "type": 3,
+                "api": "wobg_open.js",
+                "ext": "阿狸token码"
+            },	         
+             {
+                "key": "ysc",
+                "name": "🎬️乐享汇fans丨阿狸",
+                "type": 3,
+                "api": "ysc_open.js",
+                "ext": "阿狸token码"
+            },	    			
+ {
+        "key": "kkys",
+        "name": "🎬️乐享汇fans丨快看",
+        "type": 3,
+       "api": "kkys_open.js"
+    },
+      {
+                "key": "ys996",
+                "name": "🎬️乐享汇fans丨九六",
+                "type": 3,
+                "api": "ys996_open.js"
+            },	
+       {
+                "key": "sc1080",
+                "name": "🎬️乐享汇fans丨圣城",
+                "type": 3,
+                "api": "sc1080_open.js"
+            },	
+     {
+                "key": "ggys",
+                "name": "🎬️乐享汇fans丨高光",
+                "type": 3,
+                "api": "ggys_open.js"
+            },	
+{
+          "key": "subaibai",
+          "name": "🎬️乐享汇fans丨素白",
+          "type": 3,
+         "api": "subaibai_open.js"
+    },
+ {
+        "key": "bulei_open",
+        "name": "🎬️乐享汇fans丨布蕾",
+        "type": 3,
+        "api": "bulei_open.js"
+   },  
+   {
+        "key": "czzy",
+        "name": "🎬️乐享汇fans丨厂长",
+        "type": 3,
+       "api": "czzy_open.js"
+   },  						    			
+            {
+                "key": "tutu",
+                "name": "🎬️乐享汇fans丨图图",
+                "type": 3,
+                "api": "tutu_open.js"
+            },															
+            {
+                "key": "ikanbot",
+                "name": "🎬️乐享汇fans丨爱看",
+                "type": 3,
+                "api": "ikanbot_open.js"
+            },	
+            {
+                "key": "nkvod",
+                "name": "🎬️乐享汇fans丨耐看",
+                "type": 3,
+                "api": "nkvod_open.js"
+            },				                  
+ {
+        "key": "ikanbot",
+        "name": "🎬️乐享汇fans丨爱看",
+        "type": 3,
+       "api": "ikanbot_open.js"
+    }, 
+ {
+        "key": "ng",
+        "name": "🎬️乐享汇fans丨南瓜",
+        "type": 3,
+       "api": "ng_open.js"
+   },
+ {
+        "key": "yiqik",
+        "name": "🎬️乐享汇fans丨一起",
+        "type": 3,
+        "api": "yqktv_open.js"
+      }   ,   	
+{
+      "key": "555",
+      "name": "🎬️乐享汇fans丨五五",
+      "type": 3,
+      "api": "555dy_open.js"
+   },      
+{
+        "key": "libvio",
+        "name": "🎬️乐享汇fans丨立播",
+        "type": 3,
+       "api": "libvio_open.js"
+   }, 
+    {
+        "key": "yzys",
+        "name": "🎬️乐享汇fans丨柚子",
+        "type": 3,
+        "api": "yzys_open.js"
+   }, 
+ {
+                "key": "rejumao",
+                "name": "🎬乐享汇fans丨热剧",
+                "type": 3,
+                "api": "apptov5_open.js",
+                "ext": {
+                    "domains": ["https://app-1253196701.cos.ap-shanghai.myqcloud.com/app.txt", "https://www.daenwl.com/app.txt"],
+                    "aesKey": "8y8sDX3ZG22yACH3ZM5KfNGieTxEMKFe",
+                    "aesIV": "WxRAbh68C8pP6SpN",
+                    "rasPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Ykikz4aIqkJC899VxwX\nwx27bZJGV/fDbgAHtXxZ73Mq8QWuPfeAanWDWiGPhJu5aVQndADi7B0L5RBIrirf\n6lIzA+l8Ubt6+nvPYQ9NSlRkObE4ML2Hw7ccAmcqzDD0vplJz7Y8o7qKIoyfK5NP\nXDuiv52HgbyEP6KlWCiDfMuIsAA+/3x9C/0RDRgjf3x+24EuGOD6Gnw+rVJCOb64\nW4KZ7vH/uhaQSLLnNYF9VD00c072tOeaBt2mElexJN66gcP65kmrkI5grFz2RcEg\nIEkwUcYBNiFeHUcFyQZuDj/DLqQidwMhFJfkcUuMtByR9cYl9BpqT/3NKVQ1EPrV\n7QIDAQAB\n-----END PUBLIC KEY-----",
+                    "ic": "fwEUWytkwJqHICtu/kNrXOVGQAzWUw1mGuQYdT1heOKZ6vEEI+4jf6LAHJ/f4h39ZR2WL4fccGchSoCm+pqkBRi8asSMqZzKGGfY8ejzrYHxDjiTOhs4B6p/iC8Nrj+bcCmXAjVNksfxlcjU6JlbRQ=="
+            }
+   },
+  {
+        "key": "zyys",
+        "name": "🎬️乐享汇fans丨追忆",
+        "type": 3,
+        "api": "apptov5_open.js",
+        "ext": {
+        "domains": ["https://xtao-1253811961.cos.ap-chengdu.myqcloud.com/appto/xtao.json"],
+        "aesKey":  "we2CwNfG7PJppQmBfX8MMMQaWbSdcDXi",
+        "aesIV": "DnT3jxT8RYsa8ctc",
+        "rasPublicKey":"-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsKLhkMcBpvQ7x1bhAVDgNWdhJpkVUhWQaunZoDD7IwUNkkzl3cgHOBVo6H8IkoTnMAHwWnLIK9xHTwtN0ikAbZvlIOrOWwrhWwGYUAVSAtZm7FDHyVQlW3ZSv+oeBceIE7MZbCi7ZmS3Ft2XEdEEyjXdvaQN8f+1ORmf/AsMTwfX2QhsjD1qNtq+pCw9wnd+AWGW6lAG8mxNTygfWqKT2GZsor5v3qq/qsMiFL7aUy/ZiBlHInzC3R9ZP6mWICt72Su+C9VzH+LHdiSMWmpZ1uT7EPJfh0MgzQUbIhNPVMeOBkDcf93DzO+zTDznpPCed12OORZL5PDg/2lK8i+HCwIDAQAB\n-----END PUBLIC KEY-----",
+        "ic":"4Dqrm2DknrkdH3qOh7rE2nwK9BUd5cMVriFc+kWKpUedUJt6cLXHcROX9ps/2rBoBEftIjKkCAB5PSxCJUoKm/1n1mEZt7hQLSyIco9fRfS1QwyZItfMvHbjPJoB0vQnOvlcl7C8lgRZHFQLVXh9iA=="
+                    }
+    },
+   {
+                "key": "mino",
+                "name": "🎬乐享汇fans丨米诺",
+                "type": 3,
+                "api": "mino_open.js"
+     },    
+ {
+        "key": "yrzj",
+        "name": "🎬️乐享汇fans丨伊人",
+        "type": 3,
+        "api": "yrzj_open.js"
+   },  
+  {
+        "key": "jojo_open",
+        "name": "🎬️乐享汇fans丨俊俊",
+        "type": 3,
+        "api": "jiohub_open.js"
+   },   
+           {
+                "key": "voflix",
+                "name": "🟢乐享汇fans丨VF",
+                "type": 3,
+                "api": "voflix_open.js" 
+            },
+ {
+        "key": "ytvip",
+        "name": "🟢乐享汇fans丨影探",
+        "type": 3,
+       "api": "yt_open.js",
+        "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+      }, 
+            {
+                "key": "yzz",
+                "name": "🟢乐享汇fans丨影啧",
+                "type": 3,
+                "api": "yzz_open.js"
+            },
+            {
+                "key": "inmi",
+                "name": "🟢乐享汇fans丨映迷",
+                "type": 3,
+                "api": "ym_open.js" 
+            },
+  {
+                "key": "rbk",
+                "name": "🟢乐享汇fans丨播庫",
+                "type": 3,
+                "api": "rbk_open.js" 
+            },
+            {
+                "key": "52ju",
+                "name": "🟢乐享汇fans丨五二",
+                "type": 3,
+                "api": "52ju_open.js" 
+            },
+            {
+                "key": "rbzj",
+                "name": "🟢乐享汇fans丨派比",
+                "type": 3,
+                "api": "rbzj_open.js" 
+            },
+            {
+                "key": "1free",
+                "name": "🟢乐享汇fans丨一笑",
+                "type": 3,
+                "api": "1free_open.js" 
+            },
+            {
+                "key": "panghu",
+                "name": "🟢乐享汇fans丨胖虎",
+                "type": 3,
+                "api": "panghu_open.js"
+            },
+  {
+                "key": "lz",
+                "name": "🟢乐享汇fans丨量子",
+                "type": 3,
+                "api": "lz_open.js"
+            },	
+            {
+                "key": "mfk",
+                "name": "🟢乐享汇fans丨免费",
+                "type": 3,
+                "api": "mfk_open.js"
+            },
+            {
+                "key": "4kys",
+                "name": "🟢乐享汇fans丨四开",
+                "type": 3,
+                "api": "4kys_open.js"
+            },
+            {
+                "key": "zjm",
+                "name": "🟢乐享汇fans丨剧迷",
+                "type": 3,
+                "api": "zjm_open.js"
+            },
+ {
+                "key": "mgys",
+                "name": "🟢乐享汇fans丨蘑菇",
+                "type": 3,
+                "api": "mgys_open.js"
+            },
+   {
+                "key": "dsxys",
+                "name": "🟢乐享汇fans丨师兄",
+                "type": 3,
+                "api": "dsxys_open.js" 
+            },
+
+ {
+                "key": "dnys",
+                "name": "🟢乐享汇fans丨多瑙",
+                "type": 3,
+                "api": "dnys_open.js" 
+            },
+            {
+                "key": "dyxs",
+                "name": "🟢乐享汇fans丨先生",
+                "type": 3,
+                "api": "dyxs_open.js" 
+            },
+            {
+                "key": "mayiya",
+                "name": "🟢乐享汇fans丨麻衣",
+                "type": 3,
+                "api": "mayiya_open.js" 
+            },
+            {
+                "key": "kunyu77",
+                "name": "🟢乐享汇fans丨七七",
+                "type": 3,
+                "api": "kunyu77_open.js"
+            },
+   {
+                "key": "live",
+                "name": "📺乐享汇fans丨直播",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://tvbox.serv00.net/live.php"
+            },
+  {
+        "key": "cntv",
+        "name": "📺乐享汇fans丨新闻",
+        "type": 3,
+       "api": "cntv_open.js"
+    },  
+            {
+                "key": "huya",
+                "name": "📺乐享汇fans丨虎牙",
+                "type": 3,
+                "api": "huya_open.js"
+            },
+            {
+                "key": "douyu",
+                "name": "📺乐享汇fans丨斗鱼",
+                "type": 3,
+                "api": "douyu_open.js"
+            },
+ {
+                "key": "adm",
+                "name": "🎞乐享汇fans丨动漫",
+                "type": 3,
+                "api": "adm_open.js"
+             },
+             {
+                "key": "anfun",
+                "name": "🎞乐享汇fans丨Afun",
+                "type": 3,
+                "api": "anfun_open.js"
+            },
+            {
+                "key": "58dm",
+                "name": "🎞乐享汇fans丨五八",
+                "type": 3,
+                "api": "58dm_open.js"
+            },
+    {
+        "key": "ubestkid",
+        "name": "🎞乐享汇fans丨贝乐虎",
+        "type": 3,
+       "api": "ubestkid_open.js"
+    },  
+    {
+        "key": "tuxiaobei",
+        "name": "🎞乐享汇fans丨兔小贝",
+        "type": 3,
+       "api": "tuxiaobei_open.js"
+    }, 
+    {
+        "key": "boosj",
+        "name": "🎞乐享汇fans丨童趣",
+        "type": 3,
+       "api": "boosj_open.js"
+    }, 	
+{
+        "key": "bili",
+        "name": "🎞乐享汇fans丨我哔",
+        "type": 3,
+       "api": "mybili_open.js"
+   }, 
+{
+        "key": "bilibili",
+        "name": "🎞乐享汇fans丨哔哩",
+        "type": 3,
+       "api": "bili_open.js",
+        "ext": { "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;" 
+         }
+   }, 
+{
+                "key": "djwm",
+                "name": "🎦乐享汇fans丨短剧",
+                "type": 3,
+                "api": "djwm_open.js"
+            },
+            {
+                "key": "mimiju",
+                "name": "🎦乐享汇fans丨迷迷",
+                "type": 3,
+                "api": "mimiju_open.js"
+            },	
+            {
+                "key": "kuwo",
+                "name": "🎦乐享汇fans丨酷我",
+                "type": 3,
+                "api": "kuwo_open.js"
+            },			
+            {
+                "key": "vsdj",
+                "name": "🎦乐享汇fans丨VSM",
+                "type": 3,
+                "api": "vsdj_open.js"
+            },	
+     {
+        "key": "sharenice",
+        "name": "🎦乐享汇fans丨短视频",
+        "type": 3,
+       "api": "sharenice_open.js"
+   }, 
+  {
+        "key": "kuqimv",
+        "name": "🎦乐享汇fans丨MV",
+        "type": 3,
+       "api": "kuqimv_open.js"
+    },
+  {   "key": "MV_vod",
+                "name": "🎦乐享汇fans丨K歌",
+                "type": 3,
+                "api":"caiji.js",
+                "ext": "https://mv.wogg.link/mv/vod"      
+  },
+            {
+                "key": "wf",
+                "name": "✈️乐享汇fans丨奈飞",
+                "type": 3,
+                "api": "wf_open.js"
+            },
+    {
+        "key": "nivod",
+        "name": "✈️乐享汇fans丨泥巴",
+        "type": 3,
+       "api": "nivod_open.js",
+        "ext": "888解忧愁"
+    },     
+{
+        "key": "duboku",
+        "name": "✈️乐享汇fans丨独播①",
+        "type": 3,
+       "api": "duboku_open.js"
+    }, 	
+    {
+        "key": "dubokufq",
+        "name": "✈️乐享汇fans丨独播②",
+        "type": 3,
+       "api": "dubokufq_open.js"
+    },    
+   {
+        "key": "caiji",
+        "name": "🏵乐享汇fans | 采集",
+        "type": 3,
+       "api": "caiji_open.js",
+        "ext": "https://ikunzyapi.com/api.php/provide/vod"
+    },    
+           {
+                "key": "qtw",
+                "name": "🏵乐享汇fans | 毛子",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+            },
+            {
+                "key": "kuku",
+                "name": "🏵乐享汇fans | 逗逗",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://cms.realdou.cn:35264/api.php/app/"
+            },
+            {
+                "key": "宝仙（APP）",
+                "name": "🏵乐享汇fans | 宝仙",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://webdillo.com/api.php/app/"
+            },
+            {
+                "key": "快帆",
+                "name": "🏵乐享汇fans | 快帆",
+                "type": 1,
+                "api": "caiji.js",
+                "ext": {
+                    "url": "https://api.kuaifan.tv/api.php/provide/vod",
+                    "categories": [
+                        "国产剧",
+                        "香港剧",
+                        "台湾剧",
+                        "韩国剧",
+                        "日本剧",
+                        "欧美剧",
+                        "动作片",
+                        "动画片",
+                        "短片",
+                        "喜剧片",
+                        "爱情片",
+                        "科幻片",
+                        "古装片",
+                        "历史片",
+                        "大陆综艺",
+                        "港台综艺",
+                        "日韩综艺",
+                        "国产动漫",
+                        "欧美动漫",
+                        "日本动漫"
+                    ]
+                }
+            },
+            {
+                "key": "555",
+                "name": "🏵乐享汇fans | 三五",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://555dy3.com/api.php/app/"
+            },
+            {
+            
+             "key": "49zyw",
+             "name": "🏵乐享汇fans | 四九",
+             "type": 3,
+             "api": "caiji.js",
+             "ext": {
+             "url": "https://49zyw.com/api.php/provide/vod/from/49zyw",
+             "categories": [
+             "动作片",
+             "国产剧",
+             "欧美剧",
+             "香港剧",
+             "爱情片",
+             "科幻片",
+             "恐怖片",
+             "剧情片",
+             "战争片",
+             "喜剧片",
+             "动画片",
+             "犯罪片",  
+             "韩国剧",
+             "动漫",
+             "台湾剧",
+             "国产动漫",
+             "日本动漫",
+             "欧美动漫",
+             "泰国剧",
+             "日剧",
+             "奇幻片",
+             "灾难片",
+             "悬疑片",
+             "其他片",
+             "海外剧"
+             ]
+           }
+         },
+         {
+                "key": "suoni",
+                "name": "🏵乐享汇fans | 索尼",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": {
+                "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+                "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "海外剧",
+                "大陆综艺",
+                "国产动漫"
+                ]
+              }
+            },
+            {
+                "key": "69mj",
+                "name": "🏵乐享汇fans | 美剧",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://www.69mj.com/xgapp.php/v2/"
+            },
+            {
+                "key": "wolong",
+                "name": "🏵乐享汇fans | 卧龙",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": {
+                    "url": "https://collect.wolongzyw.com/api.php/provide/vod/",
+                    "categories": "国产剧#台湾剧#欧美剧#香港剧#海外剧#惊悚片#喜剧片#动作片#伦理片#爱情片#科幻片#剧情片#动画片#国产动漫#欧美动漫"
+                }
+            },
+            {
+                "key": "yiying",
+                "name": "🏵乐享汇fans | 壹影",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://www.heyik.cn/api.php/v1.vod"
+            },
+            {
+                "key": "aidi",
+                "name": "🏵乐享汇fans | 爱迪",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://api123.adys.app/xgapp.php/v3/"
+            },
+            {
+                "key": "hello",
+                "name": "🏵乐享汇fans | 哈喽",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://www.miniku.cc/xgapp.php/v1/"
+            },
+            {
+                "key": "beijihu",
+                "name": "🏵乐享汇fans | 极狐",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://www.kuin.one/api.php/app/"
+            },
+            {
+                "key": "kuk",
+                "name": "🏵乐享汇fans | 天堂",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://dytt996.com/api.php/app/"
+            },
+            {
+                "key": "kku",
+                "name": "🏵乐享汇fans | 酷影",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+            },
+            {
+                "key": "sukan",
+                "name": "🏵乐享汇fans | 速看",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "https://sk100.tv/api.php/app/"
+            },
+            {
+                "key": "qtw",
+                "name": "🏵乐享汇fans | 彩虹",
+                "type": 3,
+                "api": "AppYsV2.js",
+                "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+            },
+            {
+                "key": "bfzy",
+                "name": "🏵乐享汇fans | 暴风",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://bfzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "key": "lehuo",
+                "name": "🏵乐享汇fans | 乐活",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+            },
+            {
+                "key": "yingtu",
+                "name": "🏵乐享汇fans | 影图",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://cj.vodimg.top/api.php/provide/vod/"
+            },
+            {
+                "key": "feifan",
+                "name": "🏵乐享汇fans | 非凡",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+            },
+            {
+                "key": "feisu",
+                "name": "🏵乐享汇fans | 飞速",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+            },
+            {
+                "key": "jszyapi",
+                "name": "🏵乐享汇fans | 极速",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://jszyapi.com/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "hhzyapi",
+                "name": "🏵乐享汇fans | 火狐",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://hhzyapi.com/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "42",
+                "name": "🏵乐享汇fans | 四二",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://www.42.la/api.php/provide/vod/from/42m3u8/at/json"
+            },
+            {
+                "key": "apitiankongapi",
+                "name": "🏵乐享汇fans | 天空",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "pgfenwe078",
+                "name": "🏵乐享汇fans | 四圈",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
+            },
+            {
+                "key": "moviegsl99",
+                "name": "🏵乐享汇fans | 新马",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "https://movie.gsl99.com/api.php/provide/vod/at/json"
+            },
+             {
+                "key": "feifei67",
+                "name": "🏵乐享汇fans | 飞飞",
+                "type": 3,
+                "api": "caiji.js",
+                "ext": "http://www.feifei67.com/api.php/provide/vod/at/json"
+            },
+           {
+        "key": "阿里盘寻",
+        "name": "🍭乐享汇fans丨盘寻",
+        "type": 3,
+        "api": "pansearch_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "阿里盘搜",
+        "name": "🍭乐享汇fans丨盘搜",
+        "type": 3,
+        "api": "pansou_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "阿里七夜",
+        "name": "🍭乐享汇fans丨七夜",
+        "type": 3,
+        "api": "dovx_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "小纸条",
+        "name": "🍭乐享汇fans丨纸条",
+        "type": 3,
+        "api": "xiaozhitiao_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "UP云搜",
+        "name": "🍭乐享汇fans丨云搜",
+        "type": 3,
+        "api": "upyun_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "易搜",
+        "name": "🍭乐享汇fans丨易搜",
+        "type": 3,
+        "api": "yiso_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "云盘4K",
+        "name": "🍭乐享汇fans丨云盘",
+        "type": 3,
+        "api": "yunpan4k_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "找资源",
+        "name": "🍭乐享汇fans丨资源",
+        "type": 3,
+        "api": "zhaozy_open.js",
+        "ext": "阿狸token码"
+    },
+    {
+        "key": "夸克趣盘搜",
+        "name": "🍭乐享汇fans丨夸克",
+        "type": 3,
+        "api": "funletu_open.js",
+        "ext": "夸克cookie"
+  }     
+    ]
+  },
+  "read": {
+     "sites": [      
+   {
+        "key": "13bqg",
+        "name": "🎧乐享汇fans丨笔趣",
+        "type": 10,
+       "api": "13bqg_open.js"
+    },
+
+   {
+        "key": "bookan",
+        "name": "🎧乐享汇fans丨博看",
+        "type": 10,
+       "api": "bookan_open.js"
+    },
+    {
+        "key": "lbgs",
+        "name": "🎧乐享汇fans丨老白",
+        "type": 10,
+       "api": "lbgs_open.js"
+    },	
+    {
+        "key": "230ts_book",
+        "name": "🎧乐享汇fans丨艾尚",
+        "type": 10,
+      "api": "230ts_book_open.js"
+    }
+   ]
+  },   
+    "comic": {
+        "sites": [
+            {
+                "key": "CM",
+                "name": "📚乐享汇fans丨CM",
+                "type": 3,
+                "api": "copymanga_open.js"
+            },
+           {
+                "key": "BG",
+                "name": "📚乐享汇fans丨BG",
+                "type": 3,
+                "api": "bengou_open.js"
+            },
+    {
+                "key": "CG",
+                "name": "📚乐享汇fans丨CG",
+                "type": 3,
+                "api": "acgwd_open.js"
+            },
+     {
+                "key": "KZ",
+                "name": "📚乐享汇fans丨KZ",
+                "type": 3,
+                "api": "mkz_open.js"
+            },
+         {
+        "key": "cartoon18",
+        "name": "📚乐享汇fans丨18T",
+        "type": 10,
+       "api": "cartoon18_open.js"
+    }
+ 
+        ]
+    },
+   "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "乐享汇fans云盘大全",
+        "type": 40,
+       "api": "alist_open.js",
+        "ext": [
+          {
+            "name": "🟢丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+ {
+      "name": "🟢正奕合集",
+      "server": "http://www.jczyl.top:2115/"
+    },
+{"name":"🟢小雅搜","server":"http://198.211.29.109:5678/"},
+{"name":"🟢小丫搜","server":"http://3.37.123.38:5678/"},
+{
+      "name": "🟢东哥",
+      "server": "http://101.34.67.237:5244/"
+    },
+ {
+      "name": "🟢美云",
+      "server": "http://xiaoya.nebula-nas.space:5678/"
+    },
+{
+      "name": "🟢小新盘",
+      "server": "https://pan.cdnxin.top/"
+    },
+{
+      "name": "🟢白云tv",
+      "server": "http://breadmyth.asuscomm.com:22222/"
+    },
+{
+      "name": "🟢小雅分类",
+      "server": "http://www.jczyl.top:5344/"
+    },
+{
+      "name": "🟢瑶瑶",
+      "server": "https://lyly.run.goorm.io/"
+    },
+    {
+      "name": "🟢潇洒个人",
+      "server": "https://alist.azad.asia/"
+    },
+  {
+      "name": "🟢鹏程",
+      "server": "https://pan.pengcheng.team/"
+    },
+  {
+      "name": "🟢小丫",
+      "server": "http://alist.xiaoya.pro/"
+    },
+    {
+      "name": "🟢触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "🟢星梦",
+      "server": "https://pan.bashroot.top"
+    },
+  {
+      "name": "🟢弱水分享",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "🟢神器云",
+      "server": "https://alist.ygxz.xyz/"
+    },	
+{
+      "name": "🟢资源站",
+      "server": "https://pan.ecve.cn/"
+    },
+        {
+               "name": "🟢雨呢",
+                    "server": "https://pan.clun.top/"
+                        },
+{
+      "name": "🟢学习",
+      "server": "http://45.85.77.23:5244/"
+    },
+
+{
+      "name": "🟢酷呵盘",
+      "server": "https://pan.kuhehe.top/"
+    },
+{
+      "name": "🟢分享者",
+      "server": "http://223.166.103.170:5244/"
+    },
+
+{
+      "name": "🟢目瞪口呆",
+      "server": "https://pan.mdgd.cc/"
+    },
+{
+      "name": "🟢小陈",
+      "server": "https://pan.oldming.top/"
+    },
+{
+      "name": "🟢动漫盘",
+      "server": "http://pan.smjc.cc"
+    },
+{
+      "name": "🟢神秘小盘",
+      "server": "https://yun.llzz.top/"
+    },
+{
+        "name" : "🟢神奇云",
+        "server" : "https://al.chirmyram.com/"
+
+    },
+{"name":"🟢个人站1","server":"http://223.166.240.80:5244/"},
+{"name":"🟢个人站2","server":"http://223.166.240.214:5244/"},
+{"name":"🟢个人站3","server":"http://223.166.201.129:5244/"},
+{"name":"🟢个人站4","server":"http://223.166.245.122:5244/"},
+{"name":"🟢个人站5","server":"http://223.166.31.107:5244/"},
+{
+      "name": "🟢SODAZ1",
+      "server": "https://pan.sodaz.xyz/"
+    },
+{
+      "name": "🟢ccaa",
+      "server": "http://69.161.221.160:5244/"
+    },
+    {
+      "name": "🟢姹莱坞",
+      "server": "https://alist.agczsz.top/",
+	  "passwd": "agree"
+    },	
+    {
+     "name": "🟢杜比",
+     "server": "https://dubi.tk"
+    },
+    {
+     "name": "🟢一只鱼",
+     "server": "https://alist.youte.ml"
+    },
+    {
+     "name": "🟢神族九帝",
+     "server": "https://alist.shenzjd.com"
+    },
+    {
+     "name": "🟢老谭",
+     "server": "https://pan.cqtjy.cn/"
+    },
+    {
+      "name": "🟢皓星繁天",
+      "server": "https://pan.hxft.xyz/"
+    },
+{
+        "name" : "🟢迅维云盘",
+        "server" : "https://pan.xwbeta.com"
+        
+    },
+{
+        "name" : "🟢姬路白雪",
+        "server" : "https://pan.jlbx.xyz"
+        
+    },
+{
+      "name": "🟢肥灿",
+      "server": "http://43.200.153.107:55609/"
+    },
+  {
+      "name": "🟢悦享盘",
+      "server": "https://pity.eu.org/"
+    },
+{
+      "name": "🟢小雅备用",
+      "server": "http://119.91.79.148:5678/🈴我的阿里分享"
+    },
+{
+      "name": "🟢小丫云",
+      "server": "http://1.14.19.228:5678/"
+    },
+    {"name": "🟢梓凌妙妙",
+    "server": "https://zi0.cc/"},
+    {"name": "🟢微资·随意盘",
+    "server": "https://apps.weixinqqq.com/"},
+{
+      "name": "🟢小丫分类备用",
+      "server": "http://123.60.191.158:5678/"
+    },
+{
+      "name": "🟢小雅云",
+      "server": "https://xiaoya.whp.lat/"
+    },
+{
+      "name": "🟢ecve资源",
+      "server": "https://pan.ecve.cn/"
+    },
+{
+      "name": "🟢潇洒备用",
+      "server": "http://www.azad.asia:5244/"
+    },
+{"name":"🟡ASMR语音","server":"https://www.asmrgay.com/"},
+{"name":"🟡大人盘","server": "https://hka.252798.xyz:1443/"},
+{"name":"🟡木偶","server":"https://abnormalize.icu/"},
+  {
+      "name": "🟡A大杂物库",
+      "server": "https://alist.qyide.com/"
+    },
+  {
+      "name": "🟡诸神小盘",
+      "server": "https://pan.zsxg.top/"
+    },
+  {
+      "name": "🟡福利盘",
+      "server": "http://69.161.221.160:5244/"
+    },
+  {
+      "name": "🟡罗汉果盘",
+      "server": "https://lala-ofbip.run.goorm.site/"
+    },
+ {
+      "name": "🟡爱豆福利",
+      "server": "https://alist.eduedu.eu.org/" 
+   },
+    {
+      "name": "🟡涛涛收藏",
+      "server": "https://alist.eduedu.eu.org/"
+    },
+ {
+      "name": "🟢正奕合集",
+      "server": "http://www.jczyl.top:5244/"
+    },
+{
+      "name": "🟢东哥",
+      "server": "http://101.34.67.237:5244/"
+    },
+ {
+      "name": "🟢美云",
+      "server": "https://h.dfjx.ltd/"
+    },
+{
+      "name": "🟢小新盘",
+      "server": "https://pan.cdnxin.top/"
+    },
+{
+      "name": "🟢白云tv",
+      "server": "http://breadmyth.asuscomm.com:22222/"
+    },
+{
+      "name": "🟢小雅分类",
+      "server": "http://www.214728327.xyz:5207/"
+    },
+{
+      "name": "🟢瑶瑶",
+      "server": "https://lyly.run.goorm.io/"
+    },
+    {
+      "name": "🟢潇洒个人",
+      "server": "https://alist.azad.asia/"
+    },
+  {
+      "name": "🟢鹏程",
+      "server": "https://pan.pengcheng.team/"
+    },
+  {
+      "name": "🟢小丫",
+      "server": "http://alist.xiaoya.pro/"
+    },
+    {
+      "name": "🟢触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "🟢星梦",
+      "server": "https://pan.bashroot.top"
+    },
+  {
+      "name": "🟢弱水分享",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "🟢神器云",
+      "server": "https://alist.ygxz.xyz/"
+    },	
+{
+      "name": "🟢酷呵盘",
+      "server": "https://pan.kuhehe.top/"
+    },
+{
+      "name": "🟢分享者",
+      "server": "https://melist.me/"
+    },
+
+{
+      "name": "🟢目瞪口呆",
+      "server": "https://pan.mdgd.cc/"
+    },
+{
+      "name": "🟢小陈",
+      "server": "https://ypan.cc/"
+    },
+{
+      "name": "🟢动漫盘",
+      "server": "http://pan.smjc.cc"
+    },
+{
+      "name": "🟢神秘小盘",
+            "server": "https://yun.ltt.zone/"
+    },
+{
+        "name" : "🟢神奇云",
+        "server" : "https://al.chirmyram.com/"
+
+    },
+{
+      "name": "🟢SODAZ1",
+      "server": "https://pan.sodaz.xyz/"
+    },
+{
+      "name": "🟢ccaa",
+      "server": "http://ww1.ccaac.xyz/"
+    },
+    {
+      "name": "🟢姹莱坞",
+      "server": "https://alist.agczsz.top/",
+	  "passwd": "agree"
+    },	
+    {
+     "name": "🟢杜比",
+     "server": "https://dubi.tk"
+    },
+    {
+     "name": "🟢一只鱼",
+     "server": "https://alist.youte.ml"
+    },
+    {
+     "name": "🟢神族九帝",
+     "server": "https://alist.shenzjd.com"
+    },
+    {
+     "name": "🟢老谭",
+     "server": "https://pan.cqtjy.cn/"
+    },
+    {
+      "name": "🟢皓星繁天",
+      "server": "https://pan.hxft.xyz/"
+    },
+{
+        "name" : "🟢迅维云盘",
+        "server" : "https://pan.xwbeta.com"
+        
+    },
+{
+        "name" : "🟢姬路白雪",
+        "server" : "https://pan.jlbx.xyz"
+        
+    },
+{
+      "name": "🟢肥灿",
+      "server": "http://43.200.153.107:55609/"
+    },
+  {
+      "name": "🟢悦享盘",
+      "server": "https://pity.eu.org/"
+    },
+{
+      "name": "🟢小雅备用",
+      "server": "http://123.60.188.109:5678/"
+    },
+    {"name": "🟢梓凌妙妙",
+    "server": "https://zi0.cc/"},
+    {"name": "🟢微资·随意盘",
+    "server": "https://apps.weixinqqq.com/"},
+  {
+      "name": "🟡A大杂物库",
+      "server": "https://alist.qyide.com/"
+    },
+  {
+      "name": "🟡诸神小盘",
+      "server": "https://pan.zsxg.top/"
+    },
+  {
+      "name": "🟡福利盘",
+      "server": "http://69.161.221.160:5244/"
+    },
+          {
+            "name": "公众号：乐享汇fans",
+            "server": "https://pan.xwbeta.com"
+          }
+        ]
+      }
+    ]
+  }
+}
